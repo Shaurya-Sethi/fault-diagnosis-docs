@@ -41,7 +41,7 @@ The project follows a structured pipeline for fault diagnosis in **Sallen-Key LP
 ## **📜 Documentation**
 A complete walkthrough of the project, including methodology, feature engineering, model training, evaluation, and insights, is available in:  
 
-📝 **[Fault_Diagnosis_Report.pdf](https://github.com/Shaurya-Sethi/fault-diagnosis-docs/blob/main/Fault%20Diagnosis%20in%20Analog%20Circuits%20Using%20Machine%20Learning%20and%20Deep%20Learning.pdf)** *(Detailed explanation of the entire project)*  
+📝 **[Fault_Diagnosis_Report.pdf](Fault Diagnosis in Analog Circuits Using Machine Learning and Deep Learning.pdf)** *(Detailed explanation of the entire project)*  
 
 
 ---
